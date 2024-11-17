@@ -1,5 +1,6 @@
 {
   "name": "my-widget",
+  "homepage": "https://merefield.github.io/my-widget",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "parcel build src/index.js --no-source-maps -d docs",
+    "build": "parcel build src/index.js --no-source-maps -d docs --public-url https://merefield.github.io/my-widget/",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
