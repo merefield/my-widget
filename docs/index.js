@@ -15,7 +15,7 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"react-dom":"NKHc"}],"vKFU":[function(require,module,exports) {
 
 },{}],"xLDQ":[function(require,module,exports) {
-module.exports="/logo.ef351327.svg";
+module.exports="https://merefield.github.io/my-widget/logo.ef351327.svg";
 },{}],"lY9v":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e=t(require("./logo.svg"));function t(e){return e&&e.__esModule?e:{default:e}}function a(){return React.createElement("div",{className:"App"},React.createElement("header",{className:"App-header"},React.createElement("img",{src:e.default,className:"App-logo",alt:"logo"}),React.createElement("p",null,"Edit ",React.createElement("code",null,"src/App.js")," and save to reload."),React.createElement("a",{className:"App-link",href:"https://reactjs.org",target:"_blank",rel:"noopener noreferrer"},"Learn React")))}require("./App.css"),window.React=require("react");var r=exports.default=a;
 },{"./logo.svg":"xLDQ","./App.css":"vKFU","react":"n8MK"}],"FheM":[function(require,module,exports) {
